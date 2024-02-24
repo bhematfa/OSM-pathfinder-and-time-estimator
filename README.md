@@ -29,13 +29,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/bhematfa/OSM-pathfinder-and-time-estimator.git
-cd shortest-timed-path-finder
+```bash```
 
-### Compiling using GCC
+```git clone https://github.com/bhematfa/OSM-pathfinder-and-time-estimator.git```
 
-make
+```cd shortest-timed-path-finder```
+
+
+### Running
+
+```make CONF=release```
 
 # Academic Integrity Reminder
 If you are a student at the University of Toronto taking CSC209H, please remember that you are responsible for following the University's Academic Integrity Policy. You are reminded that copying any code from this repository without proper citation constitutes plagiarism and may result in an academic offense being raised against you. Should you find yourself in a situation where you are tempted to copy code from this repository, please take a step back and consider using course resources such as Office Hours or Piazza for assistance instead.
